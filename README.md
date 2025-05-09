@@ -46,10 +46,4 @@ mkdir -p ~/.local/bin
 mv ./kubectl ~/.local/bin/kubectl
 ````
 
-![output](https://github.com/abhipraydhoble/Project-Super-Mario/assets/122669982/edfff0b5-6507-48e4-b552-908671b59920)
-
-**Delete Infra**
-````
- terraform destroy -auto-approve
-````
 
