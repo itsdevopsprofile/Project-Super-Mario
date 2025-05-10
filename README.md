@@ -47,3 +47,7 @@ mv ./kubectl ~/.local/bin/kubectl
 ````
 
 
+# log in to cluster
+````
+aws eks update-kubeconfig --name EKS_CLOUD --profile tf-user --region ap-southeast-1
+````
